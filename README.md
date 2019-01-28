@@ -1,6 +1,6 @@
 # Prodavachnik
 
-A simple SPA i made for practice
+A simple Single Page Application (SPA) i made at shcool practice
 
 Working with Kinvey for backend, supports:
 
